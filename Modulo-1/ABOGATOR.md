@@ -3,18 +3,18 @@
  >## PRACTICA ABOGATOR 📖
 
 - ### Toma de requerimientos ✅
-     ![diagrama](/recursos-img/diagrama.png)
+     ![diagrama](recursos-img/diagrama.png)
 ---
 - ### Buyer persona ✅
-     ![buyer persona](/recursos-img/buyer-persona.png)
+     ![buyer persona](recursos-img/buyer-persona.png)
 ---
 - ### Publico objetivo ✅
-    ![publico objetivo](/recursos-img/publico-objetivo.png)
+    ![publico objetivo](recursos-img/publico-objetivo.png)
 ---
 - ### Wireframe UX ✅
-     ![wireframe ux](/recursos-img/wireframe-movil.png)
+     ![wireframe ux](recursos-img/wireframe-movil.png)
 ---
 - ### UI ✅
-     ![ui](/recursos-img/ui-movil.png)
+     ![ui](recursos-img/ui-movil.png)
 ---  
-## [Regrgesar  ⬅️](/README.md)
+## [Regrgesar  ⬅️](README.md)
