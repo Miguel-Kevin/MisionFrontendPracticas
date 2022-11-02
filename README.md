@@ -45,7 +45,7 @@ Este repositorio contienen todas las **prácticas** de la misión FrontEnd.
 <br/>
 <br/>
 ---
-_Cretidos a iconos usados_
+>Cretidos a iconos usados
 
 <a target="_blank" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>  
 
