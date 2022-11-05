@@ -6,7 +6,7 @@ Este repositorio contienen todas las **prácticas** de la misión FrontEnd.
 - **Modulo 1** ✅ 
 <img src="https://img.icons8.com/color/48/000000/vector.png"/>
 
-  - [Practica abogabot](/Modulo-1/ABOGATOR.md)
+   - [Practica abogabot](/Modulo-1/ABOGATOR.md)
   ---
 
 - **Modulo 2** ✅ 

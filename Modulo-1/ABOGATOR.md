@@ -17,4 +17,4 @@
 - ### UI ✅
      ![ui](recursos-img/ui-movil.png)
 ---  
-## [Regrgesar  ⬅️](README.md)
+## [Regrgesar  ⬅️](/README.md)
